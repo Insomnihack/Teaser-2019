@@ -17,4 +17,4 @@
 
 ## Solution:
 
-  Full writeup @ https://blog.scrt.ch/2019/01/23/pwning-in-private-heaps-on-windows/
+  Full writeup @ https://blog.scrt.ch/2019/01/24/private-heaps-pwning-on-windows/
