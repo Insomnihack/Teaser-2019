@@ -1,0 +1,7 @@
+[package]
+name = "beginer_reverse"
+version = "0.1.0"
+authors = ["boogy"]
+
+[dependencies]
+lazy_static = "*"
